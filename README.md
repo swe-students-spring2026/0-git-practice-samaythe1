@@ -3,7 +3,7 @@
 ## Interesting Article on Software Engineering
 
 ### 10 Things Software Developers Should Learn About Learning  
-[Article Link](https://dl.acm.org/doi/10.1145/3387940.3391466)
+[Article Link](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/)
 
 I recently came across an insightful article titled **"10 Things Software Developers Should Learn About Learning"** by Neil C. C. Brown. This article dives into cognitive psychology and educational research to explore how developers can improve the way they learn.
 
